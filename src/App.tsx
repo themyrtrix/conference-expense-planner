@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { venueRooms, addOns, mealOptions } from './data';
 import LandingPage from './components/LandingPage';
 import Navbar from './components/Navbar';

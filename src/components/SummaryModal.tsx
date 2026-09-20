@@ -1,4 +1,3 @@
-import React from 'react';
 import { venueRooms, addOns, mealOptions } from '../data';
 import { X } from 'lucide-react';
 

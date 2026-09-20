@@ -1,4 +1,3 @@
-import React from 'react';
 import { venueRooms, addOns, mealOptions } from '../data';
 import { Building2, Utensils, Monitor, Users, Plus, Minus } from 'lucide-react';
 
